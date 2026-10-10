@@ -24,7 +24,7 @@
 
 ### Suporte, Redes & Infraestrutura
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-238636?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-Redes-2ea44f?style=for-the-badge&logo=cisco&logoColor=white)
+[![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-Redes-2ea44f?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/Weslley-Ribeiro/enterprise-network-infrastructure)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualização-00875a?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-Servidor_Web-1b5e20?style=for-the-badge&logo=apache-tomcat&logoColor=white)
 ![CloudSim](https://img.shields.io/badge/CloudSim-Simulação_Nuvem-2e7d32?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -48,11 +48,12 @@
 
 | Projeto | Domínio | Tecnologias Principais |
 | :--- | :--- | :--- |
-| **[enterprise-network-infrastructure](https://github.com/Weslley-Ribeiro)** | Redes & Infraestrutura | Cisco Packet Tracer, Subnetting /27, VLANs, Roteamento |
-| **[linux-system-administration](https://github.com/Weslley-Ribeiro)** | Sistemas Operacionais | Ubuntu Linux, Bash, Gerenciamento de Usuários e Permissões |
-| **[financial-database-mysql](https://github.com/Weslley-Ribeiro)** | Banco de Dados | MySQL, DDL, DML, Views DQL, Modelagem Relacional |
-| **[java-banking-management](https://github.com/Weslley-Ribeiro)** | Backend & POO | Java SE, Apache Maven, Programação Orientada a Objetos |
-| **[spring-mvc-customer-platform](https://github.com/Weslley-Ribeiro)** | Full Stack Web | Spring MVC, Apache Tomcat, Consumo de API (ViaCEP), Bootstrap |
+| **[enterprise-network-infrastructure](https://github.com/Weslley-Ribeiro/enterprise-network-infrastructure)** | Redes & Infraestrutura | Cisco Packet Tracer, Subnetting /27, VLANs, Roteamento |
+| **[linux-system-administration](https://github.com/Weslley-Ribeiro/linux-system-administration)** | Sistemas Operacionais | Ubuntu Linux, Bash, Gerenciamento de Usuários e Permissões |
+| **[financial-database-mysql](https://github.com/Weslley-Ribeiro/financial-database-mysql)** | Banco de Dados | MySQL, DDL, DML, Views DQL, Modelagem Relacional |
+| **[java-banking-management](https://github.com/Weslley-Ribeiro/java-banking-management)** | Backend & POO | Java SE, Apache Maven, Programação Orientada a Objetos |
+| **[spring-mvc-customer-platform](https://github.com/Weslley-Ribeiro/spring-mvc-customer-platform)** | Full Stack Web | Spring MVC, Apache Tomcat, Consumo de API (ViaCEP), Bootstrap |
+| **[zodiac-sign-calculator-php](https://github.com/Weslley-Ribeiro/zodiac-sign-calculator-php)** | Desenvolvimento Web | PHP, Leitura e Parser XML, Bootstrap 5 |
 | **[zodiac-sign-calculator-php](https://github.com/Weslley-Ribeiro)** | Desenvolvimento Web | PHP, Leitura e Parser XML, Bootstrap 5 |
 
 ---
