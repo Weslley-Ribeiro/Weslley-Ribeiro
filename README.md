@@ -54,7 +54,6 @@
 | **[java-banking-management](https://github.com/Weslley-Ribeiro/java-banking-management)** | Backend & POO | Java SE, Apache Maven, Programação Orientada a Objetos |
 | **[spring-mvc-customer-platform](https://github.com/Weslley-Ribeiro/spring-mvc-customer-platform)** | Full Stack Web | Spring MVC, Apache Tomcat, Consumo de API (ViaCEP), Bootstrap |
 | **[zodiac-sign-calculator-php](https://github.com/Weslley-Ribeiro/zodiac-sign-calculator-php)** | Desenvolvimento Web | PHP, Leitura e Parser XML, Bootstrap 5 |
-| **[zodiac-sign-calculator-php](https://github.com/Weslley-Ribeiro)** | Desenvolvimento Web | PHP, Leitura e Parser XML, Bootstrap 5 |
 
 ---
 
