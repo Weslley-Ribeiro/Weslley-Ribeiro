@@ -31,9 +31,9 @@
 [![GitLab CI](https://img.shields.io/badge/GitLab_CI-Pipeline_Automation-2ea44f?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)
 [![Docker](https://img.shields.io/badge/Docker-Containers-00875a?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)
 
-### Bancos de Dados & Modelagem
+### Bancos de Dados & Persistência
 ![MySQL](https://img.shields.io/badge/MySQL-Workbench-238636?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-2ea44f?style=for-the-badge&logo=mongodb&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_Database-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Weslley-Ribeiro/mongodb-loja-nosql)
 ![UML](https://img.shields.io/badge/UML-Modelagem_de_Sistemas-00875a?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ### Desenvolvimento Back-end & Engenharia de Software
@@ -53,6 +53,7 @@
 | :--- | :--- | :--- |
 | **[gitlab-ci-docker-pipeline](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)** | DevOps & Infraestrutura | GitLab CI/CD, Docker, Containers, Python, Shell Script |
 | **[sistema-springmvc-viacep](https://github.com/Weslley-Ribeiro/sistema-springmvc-viacep)** | Full Stack & Java Web | Spring MVC, Tomcat 9, API REST ViaCEP, jQuery, Bootstrap 5 |
+| **[mongodb-loja-nosql](https://github.com/Weslley-Ribeiro/mongodb-loja-nosql)** | Banco de Dados NoSQL | MongoDB Compass, mongosh, Documentos BSON, Arrays, Consultas distinct |
 | **[enterprise-network-infrastructure](https://github.com/Weslley-Ribeiro/enterprise-network-infrastructure)** | Redes & Infraestrutura | Cisco Packet Tracer, Subnetting /27, VLANs, Roteamento |
 | **[linux-system-administration](https://github.com/Weslley-Ribeiro/linux-system-administration)** | Sistemas Operacionais | Ubuntu Linux, Bash, Gerenciamento de Usuários e Permissões |
 | **[financial-database-mysql](https://github.com/Weslley-Ribeiro/financial-database-mysql)** | Banco de Dados | MySQL, DDL, DML, Views DQL, Modelagem Relacional |
