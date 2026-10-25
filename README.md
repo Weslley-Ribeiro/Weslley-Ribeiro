@@ -45,6 +45,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-2e7d32?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-1b5e20?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Metodologias Ágeis, Processos & Governança
+[![Scrum](https://img.shields.io/badge/Metodologia-Scrum-2ea44f?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/Weslley-Ribeiro/gestao-agil-scrum-painel-hq)
+[![Trello](https://img.shields.io/badge/Kanban-Trello-00875a?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/Weslley-Ribeiro/gestao-agil-scrum-painel-hq)
+[![Requisitos](https://img.shields.io/badge/Engenharia-Requisitos-1b5e20?style=for-the-badge)](https://github.com/Weslley-Ribeiro/gestao-agil-scrum-painel-hq)
+
 ---
 
 ## 📌 Projetos em Destaque
@@ -54,6 +59,7 @@
 | **[gitlab-ci-docker-pipeline](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)** | DevOps & Infraestrutura | GitLab CI/CD, Docker, Containers, Python, Shell Script |
 | **[sistema-springmvc-viacep](https://github.com/Weslley-Ribeiro/sistema-springmvc-viacep)** | Full Stack & Java Web | Spring MVC, Tomcat 9, API REST ViaCEP, jQuery, Bootstrap 5 |
 | **[mongodb-loja-nosql](https://github.com/Weslley-Ribeiro/mongodb-loja-nosql)** | Banco de Dados NoSQL | MongoDB Compass, mongosh, Documentos BSON, Arrays, Consultas distinct |
+| **[gestao-agil-scrum-painel-hq](https://github.com/Weslley-Ribeiro/gestao-agil-scrum-painel-hq)** | Engenharia de Requisitos & Ágil | Scrum, Gestão Visual, Trello, Product Backlog, US01 a US10, Critérios de Aceitação |
 | **[enterprise-network-infrastructure](https://github.com/Weslley-Ribeiro/enterprise-network-infrastructure)** | Redes & Infraestrutura | Cisco Packet Tracer, Subnetting /27, VLANs, Roteamento |
 | **[linux-system-administration](https://github.com/Weslley-Ribeiro/linux-system-administration)** | Sistemas Operacionais | Ubuntu Linux, Bash, Gerenciamento de Usuários e Permissões |
 | **[financial-database-mysql](https://github.com/Weslley-Ribeiro/financial-database-mysql)** | Banco de Dados | MySQL, DDL, DML, Views DQL, Modelagem Relacional |
