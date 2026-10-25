@@ -28,6 +28,8 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualização-00875a?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-Servidor_Web-1b5e20?style=for-the-badge&logo=apache-tomcat&logoColor=white)
 ![CloudSim](https://img.shields.io/badge/CloudSim-Simulação_Nuvem-2e7d32?style=for-the-badge&logo=google-cloud&logoColor=white)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-Pipeline_Automation-2ea44f?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)
+[![Docker](https://img.shields.io/badge/Docker-Containers-00875a?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)
 
 ### Bancos de Dados & Modelagem
 ![MySQL](https://img.shields.io/badge/MySQL-Workbench-238636?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,6 +50,7 @@
 
 | Projeto | Domínio | Tecnologias Principais |
 | :--- | :--- | :--- |
+| **[gitlab-ci-docker-pipeline](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)** | DevOps & Infraestrutura | GitLab CI/CD, Docker, Containers, Python, Shell Script |
 | **[enterprise-network-infrastructure](https://github.com/Weslley-Ribeiro/enterprise-network-infrastructure)** | Redes & Infraestrutura | Cisco Packet Tracer, Subnetting /27, VLANs, Roteamento |
 | **[linux-system-administration](https://github.com/Weslley-Ribeiro/linux-system-administration)** | Sistemas Operacionais | Ubuntu Linux, Bash, Gerenciamento de Usuários e Permissões |
 | **[financial-database-mysql](https://github.com/Weslley-Ribeiro/financial-database-mysql)** | Banco de Dados | MySQL, DDL, DML, Views DQL, Modelagem Relacional |
