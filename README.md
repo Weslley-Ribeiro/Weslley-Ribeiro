@@ -36,9 +36,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-2ea44f?style=for-the-badge&logo=mongodb&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-Modelagem_de_Sistemas-00875a?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
-### Desenvolvimento & Engenharia
+### Desenvolvimento Back-end & Engenharia de Software
 ![Java](https://img.shields.io/badge/Java-SE_&_Maven-1b5e20?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_MVC-Web_App-238636?style=for-the-badge&logo=spring&logoColor=white)
+[![Spring](https://img.shields.io/badge/Spring_MVC-5.3-2ea44f?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Weslley-Ribeiro/sistema-springmvc-viacep)
+[![Tomcat](https://img.shields.io/badge/Apache_Tomcat-9.0-00875a?style=for-the-badge&logo=apachetomcat&logoColor=white)](https://github.com/Weslley-Ribeiro/sistema-springmvc-viacep)
 ![Python](https://img.shields.io/badge/Python-Lógica_&_Data-2ea44f?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-XML_Integration-00875a?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-2e7d32?style=for-the-badge&logo=javascript&logoColor=white)
@@ -51,6 +52,7 @@
 | Projeto | Domínio | Tecnologias Principais |
 | :--- | :--- | :--- |
 | **[gitlab-ci-docker-pipeline](https://github.com/Weslley-Ribeiro/gitlab-ci-docker-pipeline)** | DevOps & Infraestrutura | GitLab CI/CD, Docker, Containers, Python, Shell Script |
+| **[sistema-springmvc-viacep](https://github.com/Weslley-Ribeiro/sistema-springmvc-viacep)** | Full Stack & Java Web | Spring MVC, Tomcat 9, API REST ViaCEP, jQuery, Bootstrap 5 |
 | **[enterprise-network-infrastructure](https://github.com/Weslley-Ribeiro/enterprise-network-infrastructure)** | Redes & Infraestrutura | Cisco Packet Tracer, Subnetting /27, VLANs, Roteamento |
 | **[linux-system-administration](https://github.com/Weslley-Ribeiro/linux-system-administration)** | Sistemas Operacionais | Ubuntu Linux, Bash, Gerenciamento de Usuários e Permissões |
 | **[financial-database-mysql](https://github.com/Weslley-Ribeiro/financial-database-mysql)** | Banco de Dados | MySQL, DDL, DML, Views DQL, Modelagem Relacional |
